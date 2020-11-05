@@ -1,0 +1,6 @@
+# Project exclude paths
+*.iml
+.idea
+/demo/target/
+/execjar/target/
+/plugin/target/
